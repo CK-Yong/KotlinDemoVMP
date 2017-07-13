@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinAndroidTest</string>
+    <string name="buttonText">Submit</string>
+    <string name="askName">What is your name?</string>
+    <string name="Insert_name">Insert name</string>
+    <string name="text_is_empty"/>
+    <string name="errorString">Please enter a name</string>
+    <string name="hello">Hello</string>
+</resources>
